@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d43bfabb6cf0076f6fca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Fumbler",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Fumbler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fumbler-Debug-07cb4c5d9c57b5e2fd33.json",
+					"name" : "Fumbler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fumbler_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fumbler_autogen-Debug-dee864fb504abc566adc.json",
+					"name" : "Fumbler_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fumbler_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fumbler_autogen_timestamp_deps-Debug-51bf26539b475dd6066d.json",
+					"name" : "Fumbler_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/creo/Fumbler/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/creo/Fumbler"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

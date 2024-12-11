@@ -1,0 +1,9 @@
+/home/creo/Fumbler/build/Desktop_Qt_6_8_0-Release/CMakeFiles/Fumbler.dir
+/home/creo/Fumbler/build/Desktop_Qt_6_8_0-Release/CMakeFiles/edit_cache.dir
+/home/creo/Fumbler/build/Desktop_Qt_6_8_0-Release/CMakeFiles/rebuild_cache.dir
+/home/creo/Fumbler/build/Desktop_Qt_6_8_0-Release/CMakeFiles/list_install_components.dir
+/home/creo/Fumbler/build/Desktop_Qt_6_8_0-Release/CMakeFiles/install.dir
+/home/creo/Fumbler/build/Desktop_Qt_6_8_0-Release/CMakeFiles/install/local.dir
+/home/creo/Fumbler/build/Desktop_Qt_6_8_0-Release/CMakeFiles/install/strip.dir
+/home/creo/Fumbler/build/Desktop_Qt_6_8_0-Release/CMakeFiles/Fumbler_autogen_timestamp_deps.dir
+/home/creo/Fumbler/build/Desktop_Qt_6_8_0-Release/CMakeFiles/Fumbler_autogen.dir
